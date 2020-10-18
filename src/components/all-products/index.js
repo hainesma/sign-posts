@@ -1,7 +1,7 @@
 import gql from "graphql-tag";
 const PRODUCTS_QUERY = gql`
     query {
-        itemses {
+        books {
             id
             name
             description

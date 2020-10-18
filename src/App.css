@@ -95,11 +95,11 @@ footer {
   background-color: #ccccaa;
   display: flex;
   justify-content: left;
-  padding: 2em 0 0 2em;
+  padding: 1em 0 0 2em;
 }
 
 .navbar-brand {
   font-family: 'Playfair Display', serif;
-  font-size: 36pt;
+  font-size: 38pt;
   font-style: italic;
 }
